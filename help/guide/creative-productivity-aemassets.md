@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: 2ad7a5cfde323b7a6f726f98ec4c5eafd7cd4d86
+exl-id: e66480f9-c7af-4b15-afdf-dd89a792af20
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '496'
 ht-degree: 3%
 
 ---
-
 
 # Productividad creativa: equipos creativos de gran capacidad
 
@@ -59,7 +59,7 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
         <div>
           <a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" target="_blank">
         <strong>Configuración del acceso administrativo al Experience Manager</strong></a>
-        <p class="is-size-7 recs-limit-description">AEM Explore cómo se autentican los usuarios con Adobe IMS para as a Cloud Service AEM, y cómo se utilizan los usuarios de IMS de Adobe, los grupos de usuarios y los Perfiles de productos para controlar el acceso a los usuarios de IMS de Adobe y sus funciones y funcionalidades.</p>
+        <p class="is-size-7 recs-limit-description">Explore cómo se autentican los usuarios con Adobe IMS para AEM as a Cloud Service AEM y cómo se utilizan los usuarios de IMS de Adobe, los grupos de usuarios y los Perfiles de productos para controlar el acceso a las funciones y las funcionalidades de los.</p>
         <p><a href="https://experienceleague.adobe.com/docs/courses/using/ExperienceManager-A-1-2020.1.aem" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM"><span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span></a></p>
         </div>
       </td>
@@ -80,7 +80,7 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=es" title="CREATIVE CLOUD y ASSETS ESSENTIALS">CREATIVE CLOUD y ASSETS ESSENTIALS</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=es" title="CREATIVE CLOUD y ASSETS ESSENTIALS">Creative Cloud y Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Obtenga información sobre cómo integrar Assets Essentials con bibliotecas de Adobe Creative Cloud.</em></p>
       </div>
@@ -101,7 +101,7 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="Uso de la aplicación de escritorio de AEM">AEM Usar aplicación de escritorio</a>
+              AEM <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="Uso de la aplicación de escritorio de AEM">Usar aplicación de escritorio de</a>
           </p>
           <p class="is-size-6"><em>AEM AEM Utilice la aplicación de escritorio de para simplificar el acceso a cualquier recurso administrado en la aplicación de escritorio, para cualquier aplicación y formato de archivo, en cualquier lugar del mundo.</em></p>
       </div>
@@ -122,7 +122,7 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM Flujo de trabajo creativo de vínculo de recursos de Adobe y">AEM Flujo de trabajo creativo de vínculo de recursos de Adobe y</a>
+              AEM <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM Flujo de trabajo creativo de vínculo de recursos de Adobe y">Flujo de trabajo creativo de vínculo de recursos de Adobe y de</a>
           </p>
           <p class="is-size-6"><em>La extensión de Adobe Asset Link para Adobe Creative Cloud for enterprise AEM amplía la capacidad de buscar, examinar, ordenar, previsualizar, cargar recursos, verificar, modificar, registrar y ver metadatos de recursos en aplicaciones de Creative Cloud.</em></p>
       </div>
@@ -185,7 +185,7 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="Creación de una página">Creación de una página</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" title="Creación de una página">Creando una página</a>
           </p>
           <p class="is-size-6"><em>Obtenga información sobre cómo crear una página en Adobe Experience Manager Sites mediante la interfaz de usuario del editor del sitio.</em></p>
       </div>
@@ -206,9 +206,9 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Configuración de Adobe Asset Link">Configuración de Adobe Asset Link</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Configuración de Adobe Asset Link">Configuración de vínculo de recursos de Adobe</a>
           </p>
-          <p class="is-size-6"><em>Obtenga información sobre cómo configurar Adobe AEM Asset Link para el as a Cloud Service AEM, configurar los derechos de usuario y el as a Cloud Service, y cómo instalar y utilizar Adobe Asset Link.</em></p>
+          <p class="is-size-6"><em>Obtenga información sobre cómo configurar Adobe Asset Link para AEM as a Cloud Service, configurar las autorizaciones de usuario y AEM as a Cloud Service, y cómo instalar y utilizar Adobe Asset Link.</em></p>
       </div>
       <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
         <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Vea el vídeo</span>

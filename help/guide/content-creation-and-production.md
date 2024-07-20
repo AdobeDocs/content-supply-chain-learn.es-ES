@@ -9,13 +9,13 @@ role: Admin, User, Leader, Developer
 level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-14155
-source-git-commit: f3082975a674a13152aa92c06302e67e9f4715b6
+exl-id: cf124c6b-b6d9-4338-8c4d-dae6722f97d4
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '1891'
 ht-degree: 0%
 
 ---
-
 
 # Tutoriales de creación de contenido y producción
 
@@ -29,7 +29,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
 
 >[!TIP]
 >
->Nuestro equipo de expertos en productos de Adobe ha reunido una colección de tutoriales de integración para casos de uso clave de la cadena de suministro de contenido. Si utiliza más de una solución, aprenda la mejor manera de integrarlas.  Consulte la [Tutoriales de integración de Content Supply Chain](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Nuestro equipo de expertos en productos de Adobe ha reunido una colección de tutoriales de integración para casos de uso clave de la cadena de suministro de contenido. Si utiliza más de una solución, aprenda la mejor manera de integrarlas.  Consulte los [tutoriales de integración de la cadena de suministro de contenido](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Tutoriales
 
@@ -46,12 +46,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.corp.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/examples.html" title="Ejemplos de cómo usar Firefly">Ejemplos de cómo usar Firefly</a>
+            <a href="https://experienceleague.corp.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/examples.html" title="Ejemplos de cómo usar Firefly">Ejemplos de cómo usar el Firefly</a>
           </p>
           <p class="is-size-6">Aprenda a utilizar Firefly para crear presentaciones inspiradoras de PowerPoint, paneles de estados de ánimo, ideación, protectores de pantalla y mucho más.</p>
         </div>
         <a href="https://experienceleague.corp.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/examples.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -68,12 +68,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor.html" title="Color generativo">Color generativo</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor.html" title="Color generativo">Cambio de color generativo</a>
           </p>
           <p class="is-size-6">Obtenga información sobre cómo previsualizar al instante diversas variaciones de color para el embalaje del producto, carteles o ilustraciones en archivos vectoriales. El cambio de color generativo permite cambiar el color lo más rápido posible. Experimente con ideas originales, idee diferentes temas o paletas y produzca varias variaciones de una sola vez.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-recolor.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -95,7 +95,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a utilizar el relleno generativo para agregar, expandir o quitar contenido de las imágenes de forma no destructiva mediante sencillos mensajes de texto. El relleno generativo le permite potenciar su creatividad y crear proyectos extraordinarios.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -117,7 +117,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a crear una imagen a partir de descripciones de texto. La generación de imágenes según sus necesidades específicas le permite crear contenido personalizado e inspirador.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/gen-fill.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -139,7 +139,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Obtenga información sobre cómo empezar a utilizar el Adobe Firefly en firefly.adobe.com.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/landing-page.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -156,12 +156,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover.html" title="Adobe Firefly de Discover">Adobe Firefly de Discover</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover.html" title="Adobe Firefly de Discover">Detectar Adobe Firefly</a>
           </p>
           <p class="is-size-6">Descubra el Adobe Firefly del futuro de la creatividad con IA generativa, diseñada para el uso y la innovación en seguridad comercial.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/discover.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -183,7 +183,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a crear anuncios atractivos en pantalla digital para la oficina. Mediante la conversión de texto a plantilla, con tecnología de Adobe Firefly, puede generar una imagen personalizada con espacio para la copia de texto. Se agregan Relleno y animaciones generativas para que el anuncio sea más atractivo.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-digital-screens.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -200,12 +200,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-backgrounds.html" title="Crear fondos para presentaciones">Crear fondos para presentaciones</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-backgrounds.html" title="Crear fondos para presentaciones">Creando fondos para presentaciones</a>
           </p>
           <p class="is-size-6">Aprenda a crear fondos atractivos para presentaciones de PowerPoint. Mediante el texto a imagen, con tecnología de Adobe Firefly, puede generar una imagen personalizada para la presentación y, a continuación, realizar más cambios en la imagen, aplicar efectos y descargarla para usarla en la presentación.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-backgrounds.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -222,12 +222,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/update-image.html" title="Actualizar ronda financiera">Actualizar ronda financiera</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/update-image.html" title="Actualizar ronda financiera">Actualizar ronda de finanzas</a>
           </p>
           <p class="is-size-6">Actualice rápidamente una imagen de gráfico estático reemplazando elementos con relleno generativo, cambiando el texto haciendo coincidir el tipo de letra y el color, y eliminando el fondo de las nuevas imágenes. Esta es una forma rápida y sencilla de reutilizar los activos gráficos, como los resúmenes financieros.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/update-image.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -244,12 +244,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/text-to-template.html" title="Cómo utilizar la IA general de texto a plantilla">Cómo utilizar la IA general de texto a plantilla</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/text-to-template.html" title="Cómo utilizar la IA general de texto a plantilla">Cómo usar la inteligencia artificial aplicada a la generación de texto a plantilla</a>
           </p>
           <p class="is-size-6">Aprenda a generar plantillas editables para publicaciones sociales, pósters, volantes y tarjetas a partir de una descripción de texto en cuestión de segundos. Puede editar el diseño, cambiar las fuentes y aplicar más marca al proyecto antes de descargarlo o compartirlo.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/text-to-template.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -266,12 +266,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/gen-text.html" title="Mejora del diseño de texto con Gen AI">Mejora del diseño de texto con Gen AI</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/gen-text.html" title="Mejora del diseño de texto con Gen AI">Mejorando tu diseño de texto con Gen AI</a>
           </p>
           <p class="is-size-6">Aprenda a crear diseños impactantes con efectos de texto impulsados por Adobe Firefly. Con un mensaje de texto, puede generar extraordinarios efectos de texto que puede refinar y embellecer.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/gen-text.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -288,12 +288,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/generative-fill.html" title="Cómo utilizar Relleno generativo">Cómo utilizar Relleno generativo</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/generative-fill.html" title="Cómo utilizar Relleno generativo">Cómo usar relleno generativo</a>
           </p>
           <p class="is-size-6">Aprenda a utilizar el relleno generador, con tecnología de Adobe Firefly, para agregar y quitar elementos de una imagen.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/generative-fill.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -310,12 +310,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/intro-gen-ai.html" title="¿Cuáles son las nuevas funciones de la generación de IA en Adobe Express?">¿Cuáles son las nuevas funciones de la generación de IA en Adobe Express?</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/intro-gen-ai.html" title="¿Cuáles son las nuevas funciones de la generación de IA en Adobe Express?">¿Cuáles son las nuevas características de IA de generación en Adobe Express?</a>
           </p>
           <p class="is-size-6">Obtenga información acerca de las nuevas funciones de IA de generación en Adobe Express. Con un mensaje de texto, puede crear fácilmente diseños y plantillas, agregar elementos a imágenes y aplicar efectos especiales al texto.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/intro-gen-ai.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -332,12 +332,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/add-gen-ai-image.html" title="Cómo añadir una imagen Gen AI">Cómo añadir una imagen Gen AI</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/add-gen-ai-image.html" title="Cómo añadir una imagen Gen AI">Cómo agregar una imagen Gen AI</a>
           </p>
           <p class="is-size-6">Descubra cómo añadir imágenes de IA generativas, impulsadas por el Adobe Firefly, a sus proyectos creativos. </p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/add-gen-ai-image.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -354,12 +354,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Información general sobre el editor/consola Fragmentos de contenido">Información general sobre el editor/consola Fragmentos de contenido</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" title="Información general sobre el editor/consola Fragmentos de contenido">Resumen del editor/consola Fragmentos de contenido</a>
           </p>
           <p class="is-size-6">AEM Una colección de vídeos que le ayudan a comprender y utilizar la consola y el editor de fragmentos de contenido de.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/content-fragments-console/overview.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -381,7 +381,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a crear PDF de aspecto profesional con las herramientas de diseño integradas y fáciles de usar de Adobe Express.†</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/document-cloud-learn/acrobat-learning/getting-started/stylize-this-PDF.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -403,7 +403,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a acelerar la creación de contenido con herramientas generativas impulsadas por IA en Adobe Photoshop y Illustrator.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/enable-creative-efficiency.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -425,7 +425,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a optimizar las cadenas de suministro de contenido con AEM Assets y Adobe Express, mejorando la productividad y la accesibilidad para todos los integrantes del equipo.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-express-aem-assets-add-on.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -442,12 +442,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Creación de contenido de comercialización atractivo">Creación de contenido de comercialización atractivo</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Creación de contenido de comercialización atractivo">Crear contenido de comercialización atractivo</a>
           </p>
           <p class="is-size-6">Aprenda cómo un equipo de comercio puede crear fácilmente imágenes atractivas para un nuevo conjunto de inventarios en su tienda en línea.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -464,12 +464,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Habilite a los equipos distribuidos para localizar contenido">Habilite a los equipos distribuidos para localizar contenido</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Habilite a los equipos distribuidos para localizar contenido">Empoderar a los equipos distribuidos para que localicen el contenido</a>
           </p>
           <p class="is-size-6">Descubra cómo los equipos de marketing de campo distribuido pueden personalizar fácilmente el contenido a su región para las campañas de marketing locales.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -491,7 +491,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a empezar a desarrollar contenido creativo para una campaña de marketing.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/jumpstart-ideation.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -508,12 +508,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-local-marketing.html" title="Creación de contenido de folleto para la campaña de marketing con Firefly">Creación de contenido de folleto para la campaña de marketing con Firefly</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-local-marketing.html" title="Creación de contenido de folleto para la campaña de marketing con Firefly">Crear contenido de folleto para la campaña de marketing con el Firefly</a>
           </p>
           <p class="is-size-6">Aprenda a utilizar Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear contenido localizado a partir de una campaña de marketing hotelero global.†</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-local-marketing.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -530,12 +530,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Creación de contenido de reclutamiento e incorporación con Firefly">Creación de contenido de reclutamiento e incorporación con Firefly</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Creación de contenido de reclutamiento e incorporación con Firefly">Crear contenido de reclutamiento e incorporación con el Firefly</a>
           </p>
           <p class="is-size-6">Aprenda a utilizar Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear gráficos únicos para la contratación e incorporación de contenido por parte de los empleados. En este ejemplo, se utilizan plantillas para que todos los miembros de la empresa creen contenido que esté exactamente relacionado con la marca.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -552,12 +552,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html" title="Ejecución sencilla de campañas sociales">Ejecución sencilla de campañas sociales</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html" title="Ejecución sencilla de campañas sociales">Ejecute fácilmente campañas sociales</a>
           </p>
           <p class="is-size-6">Aprenda a utilizar Texto a imagen, con tecnología de Adobe Firefly, para crear contenido gráfico único para campañas web, de blogs y sociales.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-blog-graphics.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -574,12 +574,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Cambio de color generativo en Illustrator">Cambio de color generativo en Illustrator</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Cambio de color generativo en Illustrator">Cambiar color generativo en Illustrator</a>
           </p>
           <p class="is-size-6">Aprenda a utilizar la opción Recolor generativo, con tecnología de Adobe Firefly, en Adobe Illustrator para cambiar rápidamente el color de las imágenes vectoriales en las cajas de té de los hoteles personalizadas.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -601,7 +601,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a crear texto único e inspirador para sus proyectos con simples mensajes de texto. Los efectos de texto le permiten mejorar su creatividad y crear textos extraordinarios para sus proyectos.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/text-effects.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -618,12 +618,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-webinar-poster.html" title="Creación de pósters de seminarios web con Firefly">Creación de pósters de seminarios web con Firefly</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-webinar-poster.html" title="Creación de pósters de seminarios web con Firefly">Crear pósters de seminarios web con el Firefly</a>
           </p>
           <p class="is-size-6">Aprenda a utilizar Efectos de texto a imagen y efectos de texto, con tecnología de Adobe Firefly, en Adobe Express para crear un póster de medios sociales para un evento de RV virtual.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-webinar-poster.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -645,7 +645,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a utilizar el relleno generador, con tecnología de Adobe Firefly, en Adobe Photoshop para acelerar la creación de titulares de anuncios web.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/web-banner-ad.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -667,7 +667,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Aprenda a utilizar Relleno generador, con tecnología de Adobe Firefly, en Adobe Photoshop para facilitar la creación de un concepto para un anuncio de viajes.†</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-fill.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -684,12 +684,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-social-posters.html" title="Creación de pósters sociales con Firefly">Creación de pósters sociales con Firefly</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-social-posters.html" title="Creación de pósters sociales con Firefly">Creando carteles sociales con el Firefly</a>
           </p>
           <p class="is-size-6">Aprenda a utilizar Efectos de texto a imagen y efectos de texto, con tecnología de Adobe Firefly, en Adobe Express para crear una campaña promocional para los medios sociales.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-social-posters.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -698,20 +698,20 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
     <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
       <div class="card-image">
         <figure class="image x-is-16by9">
-          <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="Usar bibliotecas CC" tabindex="-1">
-            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Usar bibliotecas CC">
+          <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="Uso de CC Libraries" tabindex="-1">
+            <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Uso de CC Libraries">
           </a>
         </figure>
       </div>
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="Usar bibliotecas CC">Usar bibliotecas CC</a>
+            <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" title="Uso de CC Libraries">Usar CC Libraries</a>
           </p>
           <p class="is-size-6">Aprenda a compartir recursos de la biblioteca CC con su equipo.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/cc-libraries.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -733,7 +733,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Descubra cómo la extensión Frame.io para Adobe Premiere Pro le permite centralizar y compartir recursos, recibir comentarios en tiempo real, realizar un seguimiento de las revisiones y obtener aprobaciones más rápido‚ todo sin salir de la cronología en este tutorial práctico.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/videooverview/videotutorials/video-review-frame-io.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -750,12 +750,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Configuración de Adobe Asset Link">Configuración de Adobe Asset Link</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" title="Configuración de Adobe Asset Link">Configuración de vínculo de recursos de Adobe</a>
           </p>
-          <p class="is-size-6">Obtenga información sobre cómo configurar Adobe AEM Asset Link para el as a Cloud Service AEM, configurar los derechos de usuario y el as a Cloud Service, y cómo instalar y utilizar Adobe Asset Link.</p>
+          <p class="is-size-6">Obtenga información sobre cómo configurar Adobe Asset Link para AEM as a Cloud Service, configurar las autorizaciones de usuario y AEM as a Cloud Service, y cómo instalar y utilizar Adobe Asset Link.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/adobe-asset-link/setup.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -772,12 +772,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM Flujo de trabajo creativo de vínculo de recursos de Adobe y">AEM Flujo de trabajo creativo de vínculo de recursos de Adobe y</a>
+            AEM <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" title="AEM Flujo de trabajo creativo de vínculo de recursos de Adobe y">Flujo de trabajo creativo de vínculo de recursos de Adobe y de</a>
           </p>
           <p class="is-size-6">AAM Vídeo que muestra el flujo de trabajo creativo de un usuario mediante AAL y el uso de la función de creación de segmentos de usuario</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/adobe-asset-link.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -794,12 +794,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=es" title="CREATIVE CLOUD y ASSETS ESSENTIALS">CREATIVE CLOUD y ASSETS ESSENTIALS</a>
+            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=es" title="CREATIVE CLOUD y ASSETS ESSENTIALS">Creative Cloud y Assets Essentials</a>
           </p>
           <p class="is-size-6">Obtenga información sobre cómo integrar Assets Essentials con bibliotecas de Adobe Creative Cloud</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/creative-cloud.html?lang=es" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -821,7 +821,7 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
           <p class="is-size-6">Obtenga información sobre cómo crear una página en Adobe Experience Manager Sites mediante la interfaz de usuario del editor del sitio.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/sites/page-authoring/page-authoring-overview-feature-video-use.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -838,12 +838,12 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
       <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
         <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-            <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="AEM Aplicación de escritorio 2.0">AEM Aplicación de escritorio 2.0</a>
+            AEM <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" title="AEM Aplicación de escritorio 2.0">Aplicación de escritorio de 2.0</a>
           </p>
           <p class="is-size-6">AEM AEM Utilice la aplicación de escritorio de para simplificar el acceso a cualquier recurso administrado en la aplicación de escritorio, para cualquier aplicación y formato de archivo, en cualquier lugar del mundo.</p>
         </div>
         <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/creative-workflows/aem-desktop-app.html" class="spectrum-Button spectrum-Button--outline spectrum-Button--primary spectrum-Button--sizeM" style="align-self: flex-start; margin-top: 1rem;">
-          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Leer más</span>
+          <span class="spectrum-Button-label has-no-wrap has-text-weight-bold">Más información</span>
         </a>
       </div>
     </div>
@@ -853,4 +853,4 @@ Las soluciones de Adobe utilizadas para la creación de contenido:
 ## Recursos adicionales
 
 * [Eventos de Experience League](https://experienceleague.adobe.com/events/)
-* [Adobes en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

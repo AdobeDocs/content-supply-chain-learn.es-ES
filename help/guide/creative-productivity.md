@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14155
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: b856f8a3-c353-4f10-8d04-5758ec59b611
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '452'
 ht-degree: 0%
 
 ---
-
 
 # Productividad creativa: equipos creativos de gran capacidad
 
@@ -82,7 +82,7 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Cambio de color generativo en Illustrator">Cambio de color generativo en Illustrator</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/fireflyoverview/firefly-tutorials/generative-recolor.html" title="Cambio de color generativo en Illustrator">Cambiar color generativo en Illustrator</a>
           </p>
           <p class="is-size-6"><em>Aprenda a utilizar la opción Recolor generativo, con tecnología de Adobe Firefly, en Adobe Illustrator para cambiar rápidamente el color de las imágenes vectoriales en las cajas de té de los hoteles personalizadas.</em></p>
       </div>
@@ -179,15 +179,15 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
   <div class="card" style="height: 100%; display: flex; flex-direction: column; height: 100%;">
     <div class="card-image">
       <figure class="image x-is-16by9">
-        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Usar bibliotecas CC" tabindex="-1">
-          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Usar bibliotecas CC">
+        <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Uso de CC Libraries" tabindex="-1">
+          <img class="is-bordered-r-small" src="https://video.tv.adobe.com/v/3420227?format=jpeg" alt="Uso de CC Libraries">
         </a>
       </figure>
     </div>
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Usar bibliotecas CC">Usar bibliotecas CC</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresshowto/cc-libraries.html" title="Uso de CC Libraries">Usar CC Libraries</a>
           </p>
           <p class="is-size-6"><em>Aprenda a compartir recursos de la biblioteca CC con su equipo.</em></p>
       </div>
@@ -433,4 +433,4 @@ Las soluciones de Adobe utilizadas para la productividad creativa:
 ## Recursos adicionales
 
 * [Eventos de Experience League](https://experienceleague.adobe.com/events/)
-* [Adobes en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

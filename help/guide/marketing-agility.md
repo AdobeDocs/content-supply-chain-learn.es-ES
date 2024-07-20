@@ -10,13 +10,13 @@ level: Beginner
 last-substantial-update: 2023-11-16T00:00:00Z
 jira: KT-14156
 hidefromtoc: true
-source-git-commit: b2f5670ac44b0cb4a59d3b685e6369e3b7e6db11
+exl-id: a72efe7e-e7ff-4845-9242-f038f10bb805
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '810'
 ht-degree: 0%
 
 ---
-
 
 # Agilidad del marketing: Capacite a los no creativos para escalar
 
@@ -79,7 +79,7 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Creación de pósters sociales con Firefly">Creación de pósters sociales con Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-social-posters.html" title="Creación de pósters sociales con Firefly">Crear carteles sociales con el Firefly</a>
           </p>
           <p class="is-size-6"><em>Aprenda a utilizar Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear una campaña promocional para los medios sociales. Este tutorial utiliza el nuevo Adobe Express.</em></p>
       </div>
@@ -100,7 +100,7 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Creación de pósters de seminarios web con Firefly">Creación de pósters de seminarios web con Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-webinar-poster.html" title="Creación de pósters de seminarios web con Firefly">Crear pósters de seminarios web con el Firefly</a>
           </p>
           <p class="is-size-6"><em>Aprenda a utilizar Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear un póster de seminario web para un evento de realidad virtual. Este tutorial utiliza el nuevo Adobe Express.</em></p>
       </div>
@@ -121,7 +121,7 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Ejecución sencilla de campañas sociales">Ejecución sencilla de campañas sociales</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-blog-graphics.html" title="Ejecución sencilla de campañas sociales">Ejecute fácilmente campañas sociales</a>
           </p>
           <p class="is-size-6"><em>Aprenda a utilizar Texto a imagen, con tecnología de Adobe Firefly, para crear contenido gráfico único para campañas web, de blogs y sociales. Este tutorial utiliza el nuevo Adobe Express.</em></p>
       </div>
@@ -142,7 +142,7 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Creación de contenido de reclutamiento e incorporación con Firefly">Creación de contenido de reclutamiento e incorporación con Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expresstutorials/create-on-boarding.html" title="Creación de contenido de reclutamiento e incorporación con Firefly">Crear contenido de reclutamiento e incorporación con el Firefly</a>
           </p>
           <p class="is-size-6"><em>Aprenda a utilizar Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear gráficos únicos para la contratación e incorporación de contenido por parte de los empleados.</em></p>
       </div>
@@ -163,7 +163,7 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Creación de contenido de folleto para la campaña de marketing con Firefly">Creación de contenido de folleto para la campaña de marketing con Firefly</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/create-local-marketing.html" title="Creación de contenido de folleto para la campaña de marketing con Firefly">Crear contenido de folleto para la campaña de marketing con el Firefly</a>
           </p>
           <p class="is-size-6"><em>Aprenda a utilizar Texto a imagen, con tecnología de Adobe Firefly, en Adobe Express para crear contenido localizado a partir de una campaña de marketing hotelero global. </em></p>
       </div>
@@ -184,7 +184,7 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Habilite a los equipos distribuidos para localizar contenido">Habilite a los equipos distribuidos para localizar contenido</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/localized-marketing-content.html" title="Habilite a los equipos distribuidos para localizar contenido">Empoderar a los equipos distribuidos para que localicen el contenido</a>
           </p>
           <p class="is-size-6"><em>Descubra cómo los equipos de marketing de campo distribuido pueden personalizar fácilmente el contenido a su región para las campañas de marketing locales. </em></p>
       </div>
@@ -205,7 +205,7 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Creación de contenido de comercialización atractivo">Creación de contenido de comercialización atractivo</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/compelling-merchandise.html" title="Creación de contenido de comercialización atractivo">Crear contenido de comercialización atractivo</a>
           </p>
           <p class="is-size-6"><em>Aprenda cómo un equipo de comercio puede crear fácilmente imágenes atractivas para un nuevo conjunto de inventarios en su tienda en línea.</em></p>
       </div>
@@ -226,7 +226,7 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Habilite a los equipos de marketing para crear contenido de varios canales">Habilite a los equipos de marketing para crear contenido de varios canales</a>
+              <a href="https://experienceleague.adobe.com/docs/creative-cloud-enterprise-learn/cce-learning-hub/expressoverview/expressusecase/multi-channel-marketing-content.html" title="Habilite a los equipos de marketing para crear contenido de varios canales">Active los equipos de marketing para crear contenido multicanal</a>
           </p>
           <p class="is-size-6"><em>Descubra cómo los equipos de marketing de eventos pueden crear contenido único para atraer espectadores para eventos en línea.</em></p>
       </div>
@@ -470,4 +470,4 @@ Las soluciones de Adobe utilizadas para agilizar el marketing:
 ## Recursos adicionales
 
 * [Eventos de Experience League](https://experienceleague.adobe.com/events/)
-* [Adobes en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)

@@ -9,13 +9,13 @@ level: Beginner
 last-substantial-update: 2024-03-06T00:00:00Z
 jira: KT-15077
 hidefromtoc: true
-source-git-commit: fecc107042220664ce5b76584f834a025844ef4b
+exl-id: 143fe064-bb49-4f66-936a-813edbf0b95a
+source-git-commit: 32c8aba7f65e8eb72f52c532a623df52d1473ffd
 workflow-type: tm+mt
 source-wordcount: '441'
 ht-degree: 8%
 
 ---
-
 
 # Tutoriales de informes y perspectivas
 
@@ -31,14 +31,14 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
       </td>
       <td style="align: center">
         <p style="margin: 0"><img alt="Análisis" src="/help/assets/analytics-logo.png" style="width: 42px;height:42px;"></p>
-        <strong>Analytics</strong>
+        <strong>Análisis</strong>
       </td>
     </tr>
 </table>
 
 >[!TIP]
 >
->Nuestro equipo de expertos en productos de Adobe ha reunido una colección de tutoriales de integración para casos de uso clave de la cadena de suministro de contenido. Si utiliza más de una solución, aprenda la mejor manera de integrarlas.  Consulte la [Tutoriales de integración de Content Supply Chain](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
+>Nuestro equipo de expertos en productos de Adobe ha reunido una colección de tutoriales de integración para casos de uso clave de la cadena de suministro de contenido. Si utiliza más de una solución, aprenda la mejor manera de integrarlas.  Consulte los [tutoriales de integración de la cadena de suministro de contenido](https://experienceleague.adobe.com/docs/integrations-learn/experience-cloud/solution-categories/content-supply-chain.html?lang=en).
 
 ## Cursos recomendados
 
@@ -83,7 +83,7 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Integración de Adobe Workfront y AEM Assets Essentials">Integración de Adobe Workfront y AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/overview.html" title="Integración de Adobe Workfront y AEM Assets Essentials">Integrar Adobe Workfront y AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Aprenda a integrar Workfront y AEM Assets Essentials para optimizar la administración de los flujos de trabajo creativos.</em></p>
       </div>
@@ -104,7 +104,7 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Uso de complementos de Adobe Workfront para su integración con Creative Cloud">Uso de complementos de Adobe Workfront para integrar con Creative Cloud</a>
+              <a href="https://experienceleague.adobe.com/docs/workfront/using/adobe-workfront-integrations/workfront-for-creative-cloud/wf-adobe-cc.html" title="Uso de complementos de Adobe Workfront para su integración con Creative Cloud">Use complementos de Adobe Workfront para integrarse con Creative Cloud</a>
           </p>
           <p class="is-size-6"><em>Integre Workfront con Creative Cloud para buscar y actualizar el trabajo asignado a usted sin salir de Adobe Creative Cloud.</em></p>
       </div>
@@ -125,7 +125,7 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es" title="Configuración de Adobe Workfront y AEM Assets Essentials">Configuración de Adobe Workfront y AEM Assets Essentials</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets-essentials/workfront/configure.html?lang=es" title="Configuración de Adobe Workfront y AEM Assets Essentials">Configurar Adobe Workfront y AEM Assets Essentials</a>
           </p>
           <p class="is-size-6"><em>Obtenga información sobre cómo configurar la integración de Adobe Workfront y Assets Essentials</em></p>
       </div>
@@ -167,7 +167,7 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
     <div class="card-content is-padded-small" style="display: flex; flex-direction: column; flex-grow: 1; justify-content: space-between;">
       <div class="top-card-content">
           <p class="headline is-size-6 has-text-weight-bold">
-              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integración de Workfront y AEM Assets con el conector mejorado">Integración de Workfront y AEM Assets con el conector mejorado</a>
+              <a href="https://experienceleague.adobe.com/docs/experience-manager-learn/assets/workfront/enhanced-connector/aem-experts-series/overview.html" title="Integración de Workfront y AEM Assets con el conector mejorado">Integrar Workfront y AEM Assets con el conector mejorado</a>
           </p>
           <p class="is-size-6"><em>Serie de vídeos de cuatro partes sobre la integración de Workfront y AEM Assets mediante el conector mejorado.</em></p>
       </div>
@@ -255,4 +255,4 @@ Las soluciones de Adobe utilizadas para la planificación y el flujo de trabajo:
 ## Recursos adicionales
 
 * [Eventos de Experience League](https://experienceleague.adobe.com/events/)
-* [Adobes en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
+* [Adobe en la cadena de suministro de contenido](https://business.adobe.com/resources/webinars/adobe-on-the-content-supply-chain.html)
